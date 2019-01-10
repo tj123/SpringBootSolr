@@ -1,0 +1,9 @@
+# api文档
+
+@HOST = http://localhost:8080
+
+### 获取列表
+GET {{HOST}}/solrapp/book
+
+### 添加
+POST {{HOST}}/solrapp/book
